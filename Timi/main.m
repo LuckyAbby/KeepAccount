@@ -2,8 +2,7 @@
 //  main.m
 //  Timi
 //
-//  Created by ffm on 17/1/21.
-//  Copyright © 2017年 ITPanda. All rights reserved.
+//  Created by abby on 18/12/11.
 //
 
 #import <UIKit/UIKit.h>
