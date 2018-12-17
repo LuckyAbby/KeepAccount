@@ -174,7 +174,7 @@
 //点击删除按钮
 - (void)timiCellClickDeleteBtn:(TimiTableViewCell *)cell
 {
-    UIAlertController *alertView = [UIAlertController alertControllerWithTitle:@"FBI WARNING" message:@"确定要删除？" preferredStyle:UIAlertControllerStyleAlert];
+    UIAlertController *alertView = [UIAlertController alertControllerWithTitle:@"提示" message:@"确定要删除？" preferredStyle:UIAlertControllerStyleAlert];
     
     UIAlertAction *action = [UIAlertAction actionWithTitle:@"确定" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action) {
         
